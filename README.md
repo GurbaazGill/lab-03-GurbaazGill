@@ -4,6 +4,8 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
+Chatgpt used for understanding lab3 exercise requirements
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
